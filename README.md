@@ -82,4 +82,4 @@ Se quiser trocar ideias ou discutir possíveis colaborações, fique à vontade 
 
 - 💼 [LinkedIn](#)  
 - 🖥️ [GitHub](https://github.com/bomcabelo)  
-- 📧 Email: seuemail@exemplo.com  
+- 📧 Email: rodrigues.silva.anderson@gmail.com
